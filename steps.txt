@@ -1,3 +1,5 @@
 1. create github repo
 2. create new folder -> open gitbash -> clone repo 
 3. create project template -> create template.sh to write the folder structure
+4. once created run template.sh in bash -> make chnages in repo as well
+5. create virtual environment -> activate it
